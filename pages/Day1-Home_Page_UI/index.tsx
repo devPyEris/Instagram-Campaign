@@ -2,9 +2,9 @@ import "./style.css";
 
 export default function Home_Page_UI(){
   return(
-      <div className=" flex items-center justify-center h-[100vh] bg-[#C6CCE0] relative">
-        <div className="w-[990px] h-[244px] rounded-[34px] bg-[#0D2167] absolute z-10 top-[50%] left-[10%]"></div>
-      <div className="w-[1134px] h-[373px] rounded-[32px] p-[52px] bg-white flex flex-col gap-8 z-20">
+      <div className=" flex items-center justify-center h-[100vh] bg-[#C6CCE0]">
+        <div className="w-[990px] h-[244px] rounded-[34px] bg-[#0D2167] absolute top-[50%] left-[20%]"></div>
+      <div className="w-[1134px] h-[373px] rounded-[32px] p-[52px] bg-white flex flex-col gap-8 relative">
       <nav>
         <ul className="flex gap-4 ">
           <li className="cursor-pointer border-b-4 font-[500] border-[#0D2167] pb-2 w-[110px]">My parameters</li>
