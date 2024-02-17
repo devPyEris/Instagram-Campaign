@@ -8,6 +8,7 @@ export default function Home() {
     <Link href="/Day1-Task2-Billing_Page_UI_Design">Day1-Task2-Billing_Page_UI_Design</Link>
     <Link href="/Day2-Landing_Page_UI_Design">Day2-Landing_Page_UI_Design</Link>
     <Link href="/Day2-Task2-Product_Review_Modal">Day2-Task2-Product_Review_Modal</Link>
+    <Link href="/Day2-Task3-Progress_Card">Day2-Task3-Progress_Card</Link>
     </div>
   );
 }
